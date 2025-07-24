@@ -1,0 +1,62 @@
+[
+  {
+    "cert_id": "cert100",
+    "user_id": "u100",
+    "course_id": "c100",
+    "date_issued": "2025-07-01"
+  },
+  {
+    "cert_id": "cert101",
+    "user_id": "u101",
+    "course_id": "c101",
+    "date_issued": "2025-07-02"
+  },
+  {
+    "cert_id": "cert102",
+    "user_id": "u102",
+    "course_id": "c102",
+    "date_issued": "2025-07-03"
+  },
+  {
+    "cert_id": "cert103",
+    "user_id": "u103",
+    "course_id": "c103",
+    "date_issued": "2025-07-04"
+  },
+  {
+    "cert_id": "cert104",
+    "user_id": "u104",
+    "course_id": "c104",
+    "date_issued": "2025-07-05"
+  },
+  {
+    "cert_id": "cert105",
+    "user_id": "u105",
+    "course_id": "c105",
+    "date_issued": "2025-07-06"
+  },
+  {
+    "cert_id": "cert106",
+    "user_id": "u106",
+    "course_id": "c106",
+    "date_issued": "2025-07-07"
+  },
+  {
+    "cert_id": "cert107",
+    "user_id": "u107",
+    "course_id": "c107",
+    "date_issued": "2025-07-08"
+  },
+  {
+    "cert_id": "cert108",
+    "user_id": "u108",
+    "course_id": "c108",
+    "date_issued": "2025-07-09"
+  },
+  {
+    "cert_id": "cert109",
+    "user_id": "u109",
+    "course_id": "c109",
+    "date_issued": "2025-07-10"
+  }
+]

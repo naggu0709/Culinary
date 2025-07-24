@@ -1,0 +1,112 @@
+[
+  {
+    "class_id": "lc100",
+    "topic": "Live Class 0",
+    "chef": "Chef A",
+    "date": "2025-07-20",
+    "participants": [
+      "u100",
+      "u101",
+      "u102"
+    ]
+  },
+  {
+    "class_id": "lc101",
+    "topic": "Live Class 1",
+    "chef": "Chef B",
+    "date": "2025-07-21",
+    "participants": [
+      "u100",
+      "u101",
+      "u102"
+    ]
+  },
+  {
+    "class_id": "lc102",
+    "topic": "Live Class 2",
+    "chef": "Chef C",
+    "date": "2025-07-22",
+    "participants": [
+      "u100",
+      "u101",
+      "u102"
+    ]
+  },
+  {
+    "class_id": "lc103",
+    "topic": "Live Class 3",
+    "chef": "Chef D",
+    "date": "2025-07-23",
+    "participants": [
+      "u100",
+      "u101",
+      "u102"
+    ]
+  },
+  {
+    "class_id": "lc104",
+    "topic": "Live Class 4",
+    "chef": "Chef E",
+    "date": "2025-07-24",
+    "participants": [
+      "u100",
+      "u101",
+      "u102"
+    ]
+  },
+  {
+    "class_id": "lc105",
+    "topic": "Live Class 5",
+    "chef": "Chef F",
+    "date": "2025-07-25",
+    "participants": [
+      "u100",
+      "u101",
+      "u102"
+    ]
+  },
+  {
+    "class_id": "lc106",
+    "topic": "Live Class 6",
+    "chef": "Chef G",
+    "date": "2025-07-26",
+    "participants": [
+      "u100",
+      "u101",
+      "u102"
+    ]
+  },
+  {
+    "class_id": "lc107",
+    "topic": "Live Class 7",
+    "chef": "Chef H",
+    "date": "2025-07-27",
+    "participants": [
+      "u100",
+      "u101",
+      "u102"
+    ]
+  },
+  {
+    "class_id": "lc108",
+    "topic": "Live Class 8",
+    "chef": "Chef I",
+    "date": "2025-07-28",
+    "participants": [
+      "u100",
+      "u101",
+      "u102"
+    ]
+  },
+  {
+    "class_id": "lc109",
+    "topic": "Live Class 9",
+    "chef": "Chef J",
+    "date": "2025-07-29",
+    "participants": [
+      "u100",
+      "u101",
+      "u102"
+    ]
+  }
+]

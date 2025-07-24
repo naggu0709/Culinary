@@ -1,0 +1,182 @@
+[
+  {
+    "recipe_id": "r100",
+    "title": "Recipe 0",
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "ingredients": [
+      "Tomato",
+      "Basil",
+      "Garlic",
+      "Pasta"
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare sauce",
+      "Mix and garnish"
+    ],
+    "linked_course": "c100"
+  },
+  {
+    "recipe_id": "r101",
+    "title": "Recipe 1",
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Butter",
+      "Spices"
+    ],
+    "steps": [
+      "Prepare gravy",
+      "Add paneer",
+      "Simmer"
+    ],
+    "linked_course": "c101"
+  },
+  {
+    "recipe_id": "r102",
+    "title": "Recipe 2",
+    "cuisine": "Italian",
+    "difficulty": "Hard",
+    "ingredients": [
+      "Tomato",
+      "Basil",
+      "Garlic",
+      "Pasta"
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare sauce",
+      "Mix and garnish"
+    ],
+    "linked_course": "c102"
+  },
+  {
+    "recipe_id": "r103",
+    "title": "Recipe 3",
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Butter",
+      "Spices"
+    ],
+    "steps": [
+      "Prepare gravy",
+      "Add paneer",
+      "Simmer"
+    ],
+    "linked_course": "c103"
+  },
+  {
+    "recipe_id": "r104",
+    "title": "Recipe 4",
+    "cuisine": "Indian",
+    "difficulty": "Hard",
+    "ingredients": [
+      "Tomato",
+      "Basil",
+      "Garlic",
+      "Pasta"
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare sauce",
+      "Mix and garnish"
+    ],
+    "linked_course": "c104"
+  },
+  {
+    "recipe_id": "r105",
+    "title": "Recipe 5",
+    "cuisine": "Mexican",
+    "difficulty": "Hard",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Butter",
+      "Spices"
+    ],
+    "steps": [
+      "Prepare gravy",
+      "Add paneer",
+      "Simmer"
+    ],
+    "linked_course": "c105"
+  },
+  {
+    "recipe_id": "r106",
+    "title": "Recipe 6",
+    "cuisine": "Thai",
+    "difficulty": "Hard",
+    "ingredients": [
+      "Tomato",
+      "Basil",
+      "Garlic",
+      "Pasta"
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare sauce",
+      "Mix and garnish"
+    ],
+    "linked_course": "c106"
+  },
+  {
+    "recipe_id": "r107",
+    "title": "Recipe 7",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Butter",
+      "Spices"
+    ],
+    "steps": [
+      "Prepare gravy",
+      "Add paneer",
+      "Simmer"
+    ],
+    "linked_course": "c107"
+  },
+  {
+    "recipe_id": "r108",
+    "title": "Recipe 8",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "ingredients": [
+      "Tomato",
+      "Basil",
+      "Garlic",
+      "Pasta"
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare sauce",
+      "Mix and garnish"
+    ],
+    "linked_course": "c108"
+  },
+  {
+    "recipe_id": "r109",
+    "title": "Recipe 9",
+    "cuisine": "Mexican",
+    "difficulty": "Hard",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Butter",
+      "Spices"
+    ],
+    "steps": [
+      "Prepare gravy",
+      "Add paneer",
+      "Simmer"
+    ],
+    "linked_course": "c109"
+  }
+]

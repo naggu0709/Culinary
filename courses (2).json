@@ -1,0 +1,112 @@
+[
+  {
+    "course_id": "c100",
+    "title": "Course 0",
+    "level": "Advanced",
+    "modules": [
+      "Module 1",
+      "Module 2",
+      "Module 3"
+    ],
+    "duration": "2h"
+  },
+  {
+    "course_id": "c101",
+    "title": "Course 1",
+    "level": "Intermediate",
+    "modules": [
+      "Module 1",
+      "Module 2",
+      "Module 3"
+    ],
+    "duration": "6h"
+  },
+  {
+    "course_id": "c102",
+    "title": "Course 2",
+    "level": "Advanced",
+    "modules": [
+      "Module 1",
+      "Module 2",
+      "Module 3"
+    ],
+    "duration": "5h"
+  },
+  {
+    "course_id": "c103",
+    "title": "Course 3",
+    "level": "Advanced",
+    "modules": [
+      "Module 1",
+      "Module 2",
+      "Module 3"
+    ],
+    "duration": "2h"
+  },
+  {
+    "course_id": "c104",
+    "title": "Course 4",
+    "level": "Beginner",
+    "modules": [
+      "Module 1",
+      "Module 2",
+      "Module 3"
+    ],
+    "duration": "3h"
+  },
+  {
+    "course_id": "c105",
+    "title": "Course 5",
+    "level": "Intermediate",
+    "modules": [
+      "Module 1",
+      "Module 2",
+      "Module 3"
+    ],
+    "duration": "2h"
+  },
+  {
+    "course_id": "c106",
+    "title": "Course 6",
+    "level": "Intermediate",
+    "modules": [
+      "Module 1",
+      "Module 2",
+      "Module 3"
+    ],
+    "duration": "6h"
+  },
+  {
+    "course_id": "c107",
+    "title": "Course 7",
+    "level": "Beginner",
+    "modules": [
+      "Module 1",
+      "Module 2",
+      "Module 3"
+    ],
+    "duration": "4h"
+  },
+  {
+    "course_id": "c108",
+    "title": "Course 8",
+    "level": "Beginner",
+    "modules": [
+      "Module 1",
+      "Module 2",
+      "Module 3"
+    ],
+    "duration": "3h"
+  },
+  {
+    "course_id": "c109",
+    "title": "Course 9",
+    "level": "Advanced",
+    "modules": [
+      "Module 1",
+      "Module 2",
+      "Module 3"
+    ],
+    "duration": "6h"
+  }
+]
